@@ -3,14 +3,13 @@
 Application web de gestion du championnat marocain (Botola Pro Inwi) développée en PHP MVC (Modèle-Vue-Contrôleur) natif.
 
 ## 👥 Membres du Groupe (Réalisé par)
-*   **[Votre Nom Prénom]**
-*   **[Nom Prénom du collègue 1]**
-*   **[Nom Prénom du collègue 2]**
+*   **Mohamed Mestaoui
+*   **Hamza Nadiri
 
 ## 🛠 Technologies
-*   **Langage** : PHP 8 (Sans Framework, Architecture MVC)
+*   **Langage** : PHP  (Sans Framework, Architecture MVC)
 *   **Base de données** : MySQL
-*   **Frontend** : HTML5, CSS3 (Responsive), JavaScript
+*   **Frontend** : HTML, CSS, JavaScript
 
 ## 🚀 Installation
 1.  Importer le fichier `database.sql` dans MySQL.
